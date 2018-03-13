@@ -33,4 +33,4 @@ I guess the startpage itself should be prety easy to customize as you like, at t
 - Worksafe GIFs (wsg)
 
 ## Screenshot:
-![](screen.png)
+![](screenshot.png)
